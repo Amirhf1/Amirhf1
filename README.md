@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Amirhf1
 - 👀 I’m interested in code.
 - 🌱 I’m currently learning.
-- 📫 How to reach me ? [![gmail](https://img.shields.io/badge/email-amirhf12x-00000)](mailto:amirhf12x@gmail.com)
-
+- 📫 How to reach me ? 
+- [![gmail](https://img.shields.io/badge/email-amirhf12x-00000)](mailto:amirhf12x@gmail.com)
 
 
 
